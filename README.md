@@ -127,5 +127,11 @@ Case 3: commited changes - for many commits
   git reset --hard "commit hash" - it will change the code according to the commit has provided (code that we had before we had that particular commit)
   git log (to check all the commits and get the hash code for commit and type q to quit)
 
+## Fork
+
+A fork is a new repo. that shares code and visibility settings with the original "upstream" repo.
+A fork is a rough copy.
+
+Once we fork the repo. (ongoing project that we want to contribute to) we have a copy in our github account it means that we have all the files in our account. Now we can make changes in the github and commit (it will be changed only in out github repo.) then if we want to merge the code with the original project then we must create a pull request. 
 
 
